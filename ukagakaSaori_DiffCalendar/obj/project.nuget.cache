@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9SWxNgCZosoK8WHFjQT75WgBq5YhTzrF/U/MJNtK7uxV9m/5epnFz2g/EtEuH+HNkFKsEOITacsCpYOSHFuSeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\foxgo\\source\\repos\\ukagakaSaori_DiffCalendar\\ukagakaSaori_DiffCalendar\\ukagakaSaori_DiffCalendar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\foxgo\\.nuget\\packages\\dllexport\\1.7.4\\dllexport.1.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}

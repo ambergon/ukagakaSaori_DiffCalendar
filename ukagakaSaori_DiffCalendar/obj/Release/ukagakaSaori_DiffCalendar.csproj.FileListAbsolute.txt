@@ -1,0 +1,6 @@
+C:\Users\foxgo\source\repos\ukagakaSaori_DiffCalendar\ukagakaSaori_DiffCalendar\obj\Release\ukagakaSaori_DiffCalendar.csproj.AssemblyReference.cache
+C:\Users\foxgo\source\repos\ukagakaSaori_DiffCalendar\ukagakaSaori_DiffCalendar\obj\Release\ukagakaSaori_DiffCalendar.csproj.CoreCompileInputs.cache
+C:\Users\foxgo\source\repos\ukagakaSaori_DiffCalendar\ukagakaSaori_DiffCalendar\bin\Release\ukagakaSaori_DiffCalendar.dll
+C:\Users\foxgo\source\repos\ukagakaSaori_DiffCalendar\ukagakaSaori_DiffCalendar\bin\Release\ukagakaSaori_DiffCalendar.pdb
+C:\Users\foxgo\source\repos\ukagakaSaori_DiffCalendar\ukagakaSaori_DiffCalendar\obj\Release\ukagakaSaori_DiffCalendar.dll
+C:\Users\foxgo\source\repos\ukagakaSaori_DiffCalendar\ukagakaSaori_DiffCalendar\obj\Release\ukagakaSaori_DiffCalendar.pdb
