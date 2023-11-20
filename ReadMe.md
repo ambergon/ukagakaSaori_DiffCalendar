@@ -2,6 +2,10 @@
 日付同士の引き算を行い、差を日数で取得するSaori-univarsalです。
 
 
+## リメイクされました。
+c#だとゴーストの移動やアンインストールでSAORIが残ってしまうバグがあるので、C++で書き直しました。<br>
+[GitHub - ambergon/ukagakaSaori_DiffCalendarClang](https://github.com/ambergon/ukagakaSaori_DiffCalendarClang)
+
 ## 式
 Aのyyyy/mm/dd - Bのyyyy/mm/dd = 差の日数
 
